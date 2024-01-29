@@ -12,9 +12,9 @@
 
 ## ✨ Academic highlights
 **Teaching**
-  - UFPE - EC231 - Macroeconomics II (T.A.) - 2017 (Undergraduate level).
-  - UFPE - EC446 - Linear Algebra (T.A.) - 2017 (Undergraduate level).
-  - UFPE - EC445 - Topics on Calculus 1, 2 and 4 (T.A.) - 2016 (Undergraduate level).
+  - T.A. - UFPE - EC231 - Macroeconomics II - 2017 (Undergraduate level).
+  - T.A. - UFPE - EC446 - Linear Algebra - 2017 (Undergraduate level).
+  - T.A. - UFPE - EC445 - Topics on Calculus 1, 2 and 4 - 2016 (Undergraduate level).
     
 **Honors, Awards and Fellowships**
   - XXVI Brazil Economics Prize from the Brazilian Federal Economic Council (COFECON) in 2021. 3rd place in the Best Technical and Scientific Article category.
