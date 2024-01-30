@@ -12,7 +12,7 @@
 
 ## ✨ Academic highlights
 **Teaching**
-  - T.A. - UFPE - EC231 - Macroeconomics II - 2017 (Undergraduate level).
+  - T.A. - UFPE - EC231 - Macroeconomics I - 2017 (Undergraduate level).
   - T.A. - UFPE - EC446 - Linear Algebra - 2017 (Undergraduate level).
   - T.A. - UFPE - EC445 - Topics on Calculus 1, 2 and 4 - 2016 (Undergraduate level).
     
@@ -24,7 +24,7 @@
     
 ## 🗂️ Certificates
 - **DIME Analytics, The World Bank Group:** Reproducible Research Fundamentals Course.
-- **National School of Public Administration (ENAP):** Storytelling with Data for Successful Professional Communication
+- **National School of Public Administration (ENAP):** Storytelling with Data for Successful Professional Communication.
 - **Causal Solutions, Pedro H.C. Sant'Anna, Emory University:** The Ultimate Difference-in-Differences Course.
 - **MITx, MicroMasters Programs (DEDP):** Data Analysis for Social Scientists.
 - **DataCamp:** Intermediate R.
