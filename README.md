@@ -2,9 +2,9 @@
 ## About me
 My name is Maria Paula. I hold a bachelor's degree in Economics and am currently pursuing a Master's in the same field at the Federal University of Pernambuco. I am passionate about data science and causal inference. 
 
-Currently, I'm sharpening my analytical skills by taking online courses and building up projects that involve data collection, analysis, and machine learning using Python and SQL.
+Currently, I'm sharpening my analytical skills by taking online courses and building up projects that involve data collection, analysis and machine learning using Python and SQL.
 
-During my undergraduate studies, I served as a teaching assistant for Linear Algebra, Macroeconomics as well as Topics on Calculus 1, 2, and 4. 
+During my undergraduate studies, I served as a teaching assistant for Linear Algebra, Macroeconomics as well as Topics on Calculus 1, 2, and 4 which includes topics such as optimization, mathematical modeling, differential and difference equations.
 
 Since 2022, I've been studying and applying advanced statistical modeling techniques, focusing on causal inference and machine learning with Python.
 
@@ -20,9 +20,6 @@ Feel free to reach me out!
 - **Machine Learning Modeling:** Classification, Regression, Clustering, Optimization algoritms.
 - **Causal Inference Methods:** A/B test, Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Statistical Matching.
 
-## Data Science Projects
-I have a degree in Economics and am currently a master's student in Economics at the Federal University of Pernambuco. I'm passionate about data science and causal inference. Currently, I am improving my skills in Python and SQL through free courses and data collection, data analysis and machine learning projects.
-    
 ## Certificates
 - **DIME Analytics, The World Bank Group**. Reproducible Research Fundamentals Course.
 - **National School of Public Administration (ENAP)**. Storytelling with Data for Successful Professional Communication.
