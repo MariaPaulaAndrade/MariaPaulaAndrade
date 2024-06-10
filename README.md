@@ -5,8 +5,15 @@
 - 🎯 I aim to blend my academic mindset, data and advanced statistical techniques to generate insights that guide decision-making and solve real-world problems with impact on society.
 - 📚 My academic research interests include Discrimination, Law and Criminal Justice, Public Policy Evaluation.
 - ⚡ Fun fact: I love dogs and HIIT workouts.
-  
-## 🎓 Education
+## Skills
+- **Programming Languages** - Python, R, STATA.
+- **Database languages** - SQL, PostgreSQL.
+- **Data visualization tools** - Matplotlib, Seaborn (Python libraries).
+- **Code Versioning Tools** - Git, GitHub.
+- **Statistical Modeling**
+   - **Machine Learning Modeling:** Classification, Regression, Clustering, Optimization algoritms.
+   - **Causal Inference Methods:** Experimental (A/B test), Quasi-Experimental (Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Statistical Matching).
+## Education
 - **Master's student in Economics,** Federal University of Pernambuco, Brazil, 2022 - present.
 - **Bachelors in Economics,** Federal University of Pernambuco, Brazil, 2015 - 2019.
 
@@ -22,7 +29,7 @@
   - Acknowledged for outstanding undergraduate academic performance. Final grade point average of 9.32 out of 10.
   - Undergraduate Research Fellowship (PET- Economia - UFPE) from the Brazilian Government (CAPES), 2017-2019.
     
-## 🗂️ Certificates
+## Certificates
 - **DIME Analytics, The World Bank Group:** Reproducible Research Fundamentals Course.
 - **National School of Public Administration (ENAP):** Storytelling with Data for Successful Professional Communication.
 - **Causal Solutions, Pedro H.C. Sant'Anna, Emory University:** The Ultimate Difference-in-Differences Course.
@@ -30,7 +37,7 @@
 - **DataCamp:** Intermediate R.
 - **Udemy:** Programming logic and Algorithms.
 
-## 📬 Let's' get in touch?
+## Let's' get in touch?
 - **Email:** andrade.mpp@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/maria-paula-andrade/
 - **Twitter:** https://twitter.com/mpp_andrade
