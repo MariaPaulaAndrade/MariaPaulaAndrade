@@ -1,5 +1,5 @@
 # Hi, Welcome! 👋
-My name is Maria Paula. I hold a bachelor's degree in Economics and am currently pursuing a Master's in the same field at the Federal University of Pernambuco. I am passionate about data science and causal inference. 
+My name is Maria Paula. I hold a bachelor's degree in Economics and I am currently pursuing a Master's in the same field at Universidade Federal de Pernambuco. I am passionate about data science and causal inference. 
 
 Currently, I'm sharpening my analytical skills by taking online courses and building up projects that involve data collection, analysis and machine learning using Python and SQL.
 
