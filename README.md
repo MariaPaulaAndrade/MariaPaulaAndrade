@@ -1,33 +1,25 @@
-# Hi, I’m Maria Paula! 👋
-## 👩🏻‍💻 About me
-- 🔍 I’m interested in Applied Econometrics, Causal Inference and Data Science.
-- 🛠️ I’m currently enhancing my proficiency in Python and SQL through self-paced online courses and data science projects.
-- 🎯 I aim to blend my academic mindset, data and advanced statistical techniques to generate insights that guide decision-making and solve real-world problems with impact on society.
-- 📚 My academic research interests include Discrimination, Law and Criminal Justice, Public Policy Evaluation.
-- ⚡ Fun fact: I love dogs and HIIT workouts.
+# Hi, I'm Maria Paula! 👋
+## About me
+I hold a bachelor's degree in Economics and am currently pursuing a Master's in the same field at the Federal University of Pernambuco. I am passionate about data science and causal inference. 
+
+Currently, I'm sharpening my analytical skills by taking online courses and building up projects that involve data collection, analysis, and machine learning using Python and SQL.
+
+During my undergraduate studies, I served as a teaching assistant for Linear Algebra, Macroeconomics as well as Topics on Calculus 1, 2, and 4. Since 2022, I've been studying and applying advanced statistical modeling techniques, focusing on causal inference and machine learning with Python.
+
+My professional goal is to merge my academic curiosity and analytical mindset with advanced statistical modeling techniques to generate insights that can guide decision-making and tackle complex real-world problems. 
+
+Feel free to reach me out! 
+  
 ## Skills
 - **Programming Languages** - Python, R, STATA.
-- **Database languages** - SQL, PostgreSQL.
-- **Data visualization tools** - Matplotlib, Seaborn (Python libraries).
+- **Database Languages** - SQL, PostgreSQL.
+- **Data Visualization Tools** - Matplotlib, Seaborn (Python libraries).
 - **Code Versioning Tools** - Git, GitHub.
-- **Statistical Modeling**
-   - **Machine Learning Modeling:** Classification, Regression, Clustering, Optimization algoritms.
-   - **Causal Inference Methods:** Experimental (A/B test), Quasi-Experimental (Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Statistical Matching).
-## Education
-- **Master's student in Economics,** Federal University of Pernambuco, Brazil, 2022 - present.
-- **Bachelors in Economics,** Federal University of Pernambuco, Brazil, 2015 - 2019.
+- **Machine Learning Modeling:** Classification, Regression, Clustering, Optimization algoritms.
+- **Causal Inference Methods:** A/B test, Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Statistical Matching.
 
-## ✨ Academic highlights
-**Teaching**
-  - T.A. - UFPE - EC231 - Macroeconomics I - 2017 (Undergraduate level).
-  - T.A. - UFPE - EC446 - Linear Algebra - 2017 (Undergraduate level).
-  - T.A. - UFPE - EC445 - Topics on Calculus 1, 2 and 4 - 2016 (Undergraduate level).
-    
-**Honors, Awards and Fellowships**
-  - XXVI Brazil Economics Prize from the Brazilian Federal Economic Council (COFECON) in 2021. 3rd place in the Best Technical and Scientific Article category.
-  - XIV Pernambuco Dirceu Pessoa Economics Prize by the Regional Economic Council of Pernambuco (CORECON) in 2020. 2nd place for the best undergraduate thesis.
-  - Acknowledged for outstanding undergraduate academic performance. Final grade point average of 9.32 out of 10.
-  - Undergraduate Research Fellowship (PET- Economia - UFPE) from the Brazilian Government (CAPES), 2017-2019.
+## Data Science Projects
+I have a degree in Economics and am currently a master's student in Economics at the Federal University of Pernambuco. I'm passionate about data science and causal inference. Currently, I am improving my skills in Python and SQL through free courses and data collection, data analysis and machine learning projects.
     
 ## Certificates
 - **DIME Analytics, The World Bank Group:** Reproducible Research Fundamentals Course.
