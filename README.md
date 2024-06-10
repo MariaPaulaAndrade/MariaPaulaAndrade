@@ -1,9 +1,12 @@
-# Hi, I'm Maria Paula! 👋
+# Welcome! 👋
+## I'm Maria Paula! 
 I hold a bachelor's degree in Economics and am currently pursuing a Master's in the same field at the Federal University of Pernambuco. I am passionate about data science and causal inference. 
 
 Currently, I'm sharpening my analytical skills by taking online courses and building up projects that involve data collection, analysis, and machine learning using Python and SQL.
 
-During my undergraduate studies, I served as a teaching assistant for Linear Algebra, Macroeconomics as well as Topics on Calculus 1, 2, and 4. Since 2022, I've been studying and applying advanced statistical modeling techniques, focusing on causal inference and machine learning with Python.
+During my undergraduate studies, I served as a teaching assistant for Linear Algebra, Macroeconomics as well as Topics on Calculus 1, 2, and 4. 
+
+Since 2022, I've been studying and applying advanced statistical modeling techniques, focusing on causal inference and machine learning with Python.
 
 My professional goal is to merge my academic curiosity and analytical mindset with advanced statistical modeling techniques to generate insights that can guide decision-making and tackle complex real-world problems. 
 
@@ -21,12 +24,13 @@ Feel free to reach me out!
 I have a degree in Economics and am currently a master's student in Economics at the Federal University of Pernambuco. I'm passionate about data science and causal inference. Currently, I am improving my skills in Python and SQL through free courses and data collection, data analysis and machine learning projects.
     
 ## Certificates
-- **DIME Analytics, The World Bank Group:** Reproducible Research Fundamentals Course.
-- **National School of Public Administration (ENAP):** Storytelling with Data for Successful Professional Communication.
-- **Causal Solutions, Pedro H.C. Sant'Anna, Emory University:** The Ultimate Difference-in-Differences Course.
-- **MITx, MicroMasters Programs (DEDP):** Data Analysis for Social Scientists.
-- **DataCamp:** Intermediate R.
-- **Udemy:** Programming logic and Algorithms.
+- **DIME Analytics, The World Bank Group**. Reproducible Research Fundamentals Course.
+- **National School of Public Administration (ENAP)**. Storytelling with Data for Successful Professional Communication.
+- **Causal Solutions, Pedro H.C. Sant'Anna, Emory University**. The Ultimate Difference-in-Differences Course.
+- **MITx, MicroMasters Programs (DEDP)**. Data Analysis for Social Scientists.
+- **DataCamp**. Associate Data Scientist with Python.
+- **DataCamp**. Intermediate R.
+- **Udemy**. Programming logic and Algorithms.
 
 ## Let's' get in touch?
 - **Email:** andrade.mpp@gmail.com
