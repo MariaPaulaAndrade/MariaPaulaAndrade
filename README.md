@@ -17,8 +17,8 @@ Feel free to reach me out!
 - **Database Languages** - SQL, PostgreSQL.
 - **Data Visualization Tools** - Matplotlib, Seaborn (Python libraries).
 - **Code Versioning Tools** - Git, GitHub.
-- **Machine Learning Modeling:** Classification, Regression, Clustering, Optimization algoritms.
-- **Causal Inference Methods:** A/B test, Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Statistical Matching.
+- **Machine Learning Modeling** - Classification, Regression, Clustering, Optimization algoritms.
+- **Causal Inference Methods** - A/B test, Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Statistical Matching.
 
 ## Certificates
 - **DIME Analytics, The World Bank Group**. Reproducible Research Fundamentals Course.
