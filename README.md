@@ -3,7 +3,7 @@
 
 - Meu nome é Maria Paula. Tenho interesse em ciência de dados, econometria aplicada e inferência causal.
 - Atualmente, estou aperfeiçoando as minhas habilidades analíticas através de cursos em dados e por meio da elaboração de projetos de coleta, análise de dados e implementação de algoritmos de Machine Learning usando Python.
-- Estou sempre buscando melhorar e desenvolver habilidades técnicas e pessoais para aprimorar a qualidade da minha performance profissional.  
+- Estou sempre buscando melhorar e desenvolver habilidades técnicas e pessoais para aprimorar a qualidade da minha performance.  
 - Meu objetivo profissional é combinar minha curiosidade acadêmica e mindset analítico com técnicas avançadas de modelagem estatística para gerar insights que orientem a tomada de decisão e solucionem problemas reais complexos.
   
 ## Educação
