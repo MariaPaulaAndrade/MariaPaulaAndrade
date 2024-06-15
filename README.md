@@ -16,7 +16,7 @@
 - **Ferramentas de Visualização de Dados** - Matplotlib, Seaborn.
 - **Ferramentas de Versionamento de Código** - Git, GitHub.
 - **Modelos de Machine Learning** - Classification, Regression, Clustering, Optimization.
-- **Métodos de Inferência Causal** - Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Statistical Matching.
+- **Métodos de Inferência Causal** - Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Matching.
 - **Línguas** - Inglês (avançado).
 
 ## Certificados
