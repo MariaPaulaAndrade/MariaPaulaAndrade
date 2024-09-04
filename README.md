@@ -10,12 +10,13 @@
 - **Mestrado em Economia,** Universidade Federal de Pernambuco, Brasil, 2022 - presente.
 - **Bacharelado em Economia,** Universidade Federal de Pernambuco, Brasil, 2015 - 2019.
   
-## Habilidades
+## Habilidades e tecnologias 
 - **Linguagens de Programação** - Python, R.
 - **Gerenciamento de Banco de Dados** - SQL, PostgreSQL.
-- **Ferramentas de Visualização de Dados** - Matplotlib, Seaborn.
+- **Ferramentas de Manipulação e Visualização de Dados** - Pandas, Matplotlib, Seaborn, Plotly.
+- **Ferramentas de Testes Estatísticos e Machine Learning** - SciPy, Statsmodel, Scikit-learn, XGBoost. 
 - **Ferramentas de Versionamento de Código** - Git, GitHub.
-- **Modelos de Machine Learning** - Classification, Regression, Clustering, Optimization.
+- **Modelos de Machine Learning** - Classification, Regression, Clustering.
 - **Métodos de Inferência Causal** - Difference-in-Differences, Regression Discontinuity Design, Instrumental Variables, Matching.
 - **Línguas** - Inglês (avançado).
 
@@ -30,9 +31,10 @@
 - **Programming logic and Algorithms**. Udemy.
 
 ## Vamos nos conectar?!
-- **Email:** andrade.mpp@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/maria-paula-andrade/
-- **Twitter:** https://twitter.com/mpp_andrade
+- [![Email](https://img.shields.io/badge/Email-%40andrade.mpp%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:andrade.mpp@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40maria--paula--andrade-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maria-paula-andrade/)
+
+
 
 <!---
 MariaPaulaAndrade/MariaPaulaAndrade is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
