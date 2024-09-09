@@ -21,7 +21,7 @@
 - **Línguas** - Inglês (avançado).
 
 ## Certificados
-- **Trilha Digital | Coders 24 | Data Science**. AdaTech.
+- **Trilha Digital | Santander Coders 24 | Data Science**. AdaTech.
 - **Designing and Running Randomized Evaluations**. MITx, MicroMasters Programs (DEDP).
 - **Reproducible Research Fundamentals Course**. DIME Analytics, The World Bank Group.
 - **Storytelling with Data for Successful Professional Communication**. National School of Public Administration (ENAP).
